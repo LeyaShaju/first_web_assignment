@@ -1,9 +1,9 @@
 
 .header{
     min-height: 100%;
-    width: 100%;
-    background-image:url(images/houseboat.webp);
-    background-position:center;
+    width: 100%%;
+    background-image:url(images/houseboat2.webp);
+background-position:center top -265px;
     background-size:cover;
     position: relative;
     border:10px, black;
@@ -70,12 +70,12 @@ a:visited {
 }
 
 a:hover {
-    color: rgba(27, 81, 120, 0.692);
+color: rgba(36, 106, 21, 0.692);
 
 }   
 
 a:active {
-    color: rgb(23, 164, 185);
+    color: rgb(196, 196, 59);
 } 
 
 nav ul li {
