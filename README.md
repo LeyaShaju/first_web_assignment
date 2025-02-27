@@ -19,3 +19,6 @@ The main page consists of the title, navigation, search bar and a paragraph stat
 (i will be removing the paragraph, i just have it there to see what it looks like). I have also made sure the pages are all
 connected partially. the main page has nav but the other two only have links to the main page and haven't been styled
 I will be working on the main page, only once I am completed with it, then will I work on the other pages.
+I went back and forth on the background image, and even asked for people's opinion and finally decided to stick with a
+nice houseboat with a blue background colour, the text is much easier to read and the clarity of the image but much better.
+I have also added a button in the center of the page that says 'explore more..' which will lead to the history page
