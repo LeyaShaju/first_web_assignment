@@ -39,17 +39,6 @@ h1{
     margin: 10px;
 }
 
-.h2{
-    font-size: 48px;
-    font-style: italic;
-    font-family: Georgia;
-    color: rgb(0, 0, 0);
-    font-weight: bold;
-    text-align: left;
-    margin: 10px;
-
-}
-
 nav {
     padding: 5px ;
     margin: 10px;
@@ -66,11 +55,11 @@ a:link {
 }
 
 a:visited {
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 a:hover {
-color: rgba(0, 114, 132, 0.945);
+color: rgb(0, 119, 134);
 
 }   
 
@@ -93,8 +82,12 @@ nav input[type=text] {
 }
 
 
-.home-icon{
-    text-align: left;
+
+.b1{
+    margin-left:-8px;
+    padding: 8px 10px;
+background-color: rgba(14, 94, 134, 0.637);
+
 }
 
 .explore{
@@ -104,7 +97,7 @@ nav input[type=text] {
 }
 
 .intro {
-    border: 1px solid rgb(77, 105, 0);
+    border: 2px solid rgb(2, 36, 67);
     width: 40%;
     margin: auto;
     text-align: center;
@@ -114,7 +107,7 @@ nav input[type=text] {
 
 }
 
-button{
+.b2{
     border: none;
     background-color: rgba(0, 117, 175, 0.637);
     color: rgb(107, 216, 255);
@@ -122,10 +115,11 @@ button{
     text-align: center;
     text-decoration: none;
     font-size: 16px;
-    margin: 4px 2px;
+    border: 2px solid rgb(2, 36, 67);
 }
 
-button:hover {
-    background-color: rgba(124, 30, 13, 0.623);
+.b2:hover {
+    background-color: rgba(139, 42, 25, 0.647);
     color: rgb(214, 113, 30);
+    border:2px solid rgba(48, 0, 0, 0.791);
 }
