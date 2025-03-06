@@ -22,3 +22,10 @@ I will be working on the main page, only once I am completed with it, then will 
 I went back and forth on the background image, and even asked for people's opinion and finally decided to stick with a
 nice houseboat with a blue background colour, the text is much easier to read and the clarity of the image but much better.
 I have also added a button in the center of the page that says 'explore more..' which will lead to the history page
+
+
+3/03/2025: I Created a home page and decided to make my main page my cover page.
+
+06/03/2025: I started writing the subpages, specifically the home page including an image and the history page.
+ I have't styled the yet except the naviagtion, the banner for navigation is now the same on every page. 
+ I have also added a css file to each subpage. 
