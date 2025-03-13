@@ -29,3 +29,12 @@ I have also added a button in the center of the page that says 'explore more..' 
 06/03/2025: I started writing the subpages, specifically the home page including an image and the history page.
  I have't styled the yet except the naviagtion, the banner for navigation is now the same on every page. 
  I have also added a css file to each subpage. 
+
+
+ 12/03/2025: I created a the visit page, however looking back on the marking scheme i realised I had to use bootstrap wigdet and a 7:5
+ coloumn. I didn't know exactly how to use the 7:5 ratio, i have included the card widget. I iitially wanted to use carasoul but I had a lot of difficulties.
+ I am practically done with the visit page and only have the heading and little content to style. I did however forget to commit my work so i'll be doing that first thing next day
+
+
+
+ 13/03/2025: 
