@@ -1,7 +1,4 @@
-#map{
-    height: 400;
-    width: 100%;
-}
+
 .overlay{
     position: absolute;
     top: 0;
@@ -80,8 +77,4 @@ background-color: rgba(14, 94, 134, 0.637);
 
 }
 
-.p1{
-    padding: 600px;
-    wdith: 400px;
-}
 

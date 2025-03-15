@@ -76,3 +76,9 @@ nav input[type=text] {
 background-color: rgba(14, 94, 134, 0.637);
 
 }
+
+
+.historical_places{
+    display: flex;
+    flex-wrap: wrap;
+}

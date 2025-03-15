@@ -1,6 +1,7 @@
 # programming-exercise-1
 
 This is my web development programming exercise (1)
+SCN: 52427129
 github name: first_web_assignment
 
 
@@ -15,7 +16,7 @@ Even though my origin was master, I learned how to check by using git branch
 
 27/02/2025: I'm transfering the work I have done on my practice project to the main exercise,
 which includes the images, background images, index html and style css for the main page and the sub pages (history and visit pages)
-The main page consists of the title, navigation, search bar and a paragraph stating that this is my first web assignment 
+The main page consists of the title, navigation, search bar(which does not work) and a paragraph stating that this is my first web assignment 
 (i will be removing the paragraph, i just have it there to see what it looks like). I have also made sure the pages are all
 connected partially. the main page has nav but the other two only have links to the main page and haven't been styled
 I will be working on the main page, only once I am completed with it, then will I work on the other pages.
@@ -32,9 +33,20 @@ I have also added a button in the center of the page that says 'explore more..' 
 
 
  12/03/2025: I created a the visit page, however looking back on the marking scheme i realised I had to use bootstrap wigdet and a 7:5
- coloumn. I didn't know exactly how to use the 7:5 ratio, i have included the card widget. I iitially wanted to use carasoul but I had a lot of difficulties.
+ coloumn. I didn't know exactly how to use the 7:5 ratio, i have included the card widget. I initially wanted to use carasoul but I had a lot of difficulties.
  I am practically done with the visit page and only have the heading and little content to style. I did however forget to commit my work so i'll be doing that first thing next day
 
 
+ 13/03/2025: I started doing the home page. I was trying to figure out how use input a static map and what exactly they were telling me to do. After spending ages on it and even Created
+ a home page 2.0 to test it on. i copied and pasted it on my actually home page, but failed. I gave up and decided i'll come back to a the end. And so i have added information on the home
+ page and added some images. I created a seperate file for images i use on the visit page and another for the home page. I used devtools and visualise and find my ideal size for each picture.
+ The page is ready to style which i will do another day.  #
 
- 13/03/2025: 
+
+ 15/03/2025: I made a new discovery. infact two discoveries. The first being the reason my kerala header (h1) was different from one the visit compared to the other pages was because
+the bootstrap css stylesheet was overriding visitpage css file. I realised this by reading the bootstrap css and finding a part where all the headers have a different font and size and etc.
+The second discovery is how putting the exclamation mark before and after Doctype affected my website. Seen as I have been working with as Doctype!, when i realised that wasn't the correct
+way to arrange it, i changed it around. however, I faced quite a few problems due to this. One of them being my cover being cut in half, i tried fixing without changing doctype but in the end
+i reverted it back to how i originally spelt it. That being, said i have now competed the history page. minus the styling.  I have added a lot of information and pictures. At the bottom
+of the page there are links to historical landmarks in Kerala via images. w3schools helped me learn how to caption images by using figure.
+
