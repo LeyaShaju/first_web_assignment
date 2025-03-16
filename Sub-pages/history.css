@@ -5,7 +5,8 @@
     left: 0;
     right: 0;
     height: 150px;
-background-image: linear-gradient(rgba(0, 117, 175, 0.637),rgba(4, 131, 148, 0.219) );
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 117, 175, 0.637),rgba(4, 131, 148, 0.219) );
     border:rgba(89, 85, 85, 0.637);
     z-index: 1;
 
@@ -29,8 +30,6 @@ h1{
 }
 
 nav {
-    padding: 5px ;
-    margin: 10px;
     text-align: right;
     font-size: 18px;
     font-family:Verdana ;
@@ -74,6 +73,81 @@ nav input[type=text] {
     margin-left:-8px;
     padding: 8px 10px;
 background-color: rgba(14, 94, 134, 0.637);
+
+}
+
+p{
+    font-size: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.overlay2{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 250px;
+    background-image:url(/historypage_images/background.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top -150px;
+    display: block;
+    border:rgba(89, 85, 85, 0.637);
+    z-index: 1;
+
+}
+
+
+.overlay3{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    background-image: linear-gradient(rgb(51,74,119),rgb(126,141,183));
+    border:rgba(89, 85, 85, 0.637);
+    z-index: 1;
+
+}
+
+.overlay4{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    background-image: linear-gradient(rgb(208, 135, 98),rgb(229, 190, 162));
+    border:rgba(89, 85, 85, 0.637);
+    z-index: 1;
+
+}
+
+.overlay4{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    background-image: linear-gradient(rgb(208, 135, 98),rgb(229, 190, 162));
+    border:rgba(89, 85, 85, 0.637);
+    z-index: 1;
+
+}
+
+.overlay5{
+    top: 0;
+    left: 0;
+    right: 0;
+    height: auto;
+    background-image: linear-gradient(rgb(137, 222, 137),rgb(170, 234, 151));
+    border:rgba(89, 85, 85, 0.637);
+    z-index: 1;
 
 }
 

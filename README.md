@@ -50,3 +50,8 @@ way to arrange it, i changed it around. however, I faced quite a few problems du
 i reverted it back to how i originally spelt it. That being, said i have now competed the history page. minus the styling.  I have added a lot of information and pictures. At the bottom
 of the page there are links to historical landmarks in Kerala via images. w3schools helped me learn how to caption images by using figure.
 
+
+16/03/2025: I done quite a lot of adding to the css file of all the sub pages. i facea major issue where, my laptop and computer give a different outcome to what i've produced. I've been trying
+to find a common ground between both devices. I did try to see if it's manageable on the phone, it is to some extent. but it could be a lot better, my commits have been very little. I've recently oly been commiting at the end of the
+day instead of regurlarly, it will be a habit i'll fix another time. I have also a horrible habit of not adding comments to my work, which i plan on doing tommorow. As well as set up everything ready for submission
+. Styling isn't my strong point i belive, but i also believe i've done pretty well. i faced many struggles today such as aligning images and texts it turned out i linked a page to the wrong style sheet.
