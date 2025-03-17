@@ -40,7 +40,7 @@ I have also added a button in the center of the page that says 'explore more..' 
  13/03/2025: I started doing the home page. I was trying to figure out how use input a static map and what exactly they were telling me to do. After spending ages on it and even Created
  a home page 2.0 to test it on. i copied and pasted it on my actually home page, but failed. I gave up and decided i'll come back to a the end. And so i have added information on the home
  page and added some images. I created a seperate file for images i use on the visit page and another for the home page. I used devtools and visualise and find my ideal size for each picture.
- The page is ready to style which i will do another day.  #
+ The page is ready to style which i will do another day.
 
 
  15/03/2025: I made a new discovery. infact two discoveries. The first being the reason my kerala header (h1) was different from one the visit compared to the other pages was because
@@ -55,3 +55,8 @@ of the page there are links to historical landmarks in Kerala via images. w3scho
 to find a common ground between both devices. I did try to see if it's manageable on the phone, it is to some extent. but it could be a lot better, my commits have been very little. I've recently oly been commiting at the end of the
 day instead of regurlarly, it will be a habit i'll fix another time. I have also a horrible habit of not adding comments to my work, which i plan on doing tommorow. As well as set up everything ready for submission
 . Styling isn't my strong point i belive, but i also believe i've done pretty well. i faced many struggles today such as aligning images and texts it turned out i linked a page to the wrong style sheet.
+
+
+17/03/2025: The final day. A lot of stress is happening right now, I managed to add a static map in the end on the home page.
+I fixed up the text in the history page so it looks nice and neat. And given the images some shadows so it doesn't look plain and boring. I asked my tutorial person to help me understand how to send the
+git commits as a pdf.

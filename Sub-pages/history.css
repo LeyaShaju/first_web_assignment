@@ -115,8 +115,49 @@ body{
     background-image: linear-gradient(rgb(51,74,119),rgb(126,141,183));
     border:rgba(89, 85, 85, 0.637);
     z-index: 1;
+    margin-top: 10px;
 
 }
+
+.overlay3 img{
+    box-shadow: 10px 5px 20px rgb(0, 0, 0);
+}
+
+.medival-text1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.text1{
+    padding: 20px;
+    margin: 30px;
+}
+
+.medival-text2{
+    display:flex;
+    text-align: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.text2{
+    padding:20px;
+    margin: 30px;
+}
+
+.colonial-period{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+.text3{
+    padding: 20px;
+    margin: 30px;
+}
+
+
 
 .overlay4{
     top: 0;

@@ -93,6 +93,7 @@ h2{
 
 .Card{
     padding: 8px 12px;
+    margin: 20px;
     position: relative;
     clear: ;
     align-items:center;
