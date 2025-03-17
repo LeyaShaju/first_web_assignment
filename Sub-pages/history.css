@@ -85,6 +85,7 @@ img {
   height: auto;
 }
 
+/*The body is so that the overlays are extended to the width.*/
 body{
     margin: 0;
     padding: 0;
@@ -123,6 +124,7 @@ body{
     box-shadow: 10px 5px 20px rgb(0, 0, 0);
 }
 
+/*this is for the items inside the overlay2*/
 .medival-text1{
     display: flex;
     text-align: center;
@@ -146,10 +148,16 @@ body{
     margin: 30px;
 }
 
+
+/*this is for the items inside the overlay3*/
 .colonial-period{
     display: flex;
     text-align: center;
     align-items: center;
+}
+
+.colonial-period img{
+    box-shadow: 15px 15px 20px black;
 }
 
 .text3{
@@ -193,6 +201,7 @@ body{
 }
 
 
+/* for the places and the links of the historical places*/
 .historical_places{
     display: flex;
     flex-wrap: wrap;
