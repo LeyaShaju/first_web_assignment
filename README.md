@@ -59,13 +59,18 @@ day instead of regurlarly, it will be a habit i'll fix another time. I have also
 
 17/03/2025: The final day. A lot of stress is happening right now, I managed to add a static map in the end on the home page.
 I fixed up the text in the history page so it looks nice and neat. And given the images some shadows so it doesn't look plain and boring. I asked my tutorial person to help me understand how to send the
-git commits as a pdf.
+git commits as a pdf.i changed the. So i just have that left to do.
 
 
 conclusion:
 
-In the end. I have created a fully functional website(for laptop and computer devices) which includes a navigation bar (the search bar is for display, it doesn't work) that works.
+In the end. I have created a (near) fully functional website(for laptop and computer devices) which includes a navigation bar (the search bar is for display, it doesn't work) that works.
 All external links are also working. There is a load of information on each page. The home page included a static map, and the visis page includes
 the bootstrap widget "card", the history page includes places to visit at the bottom. There have been regular commits however they commits were only made a the end of the day. Which needs to be fixed i the future.
 I have a bad habit of not comment throughout my code instead doing at the end, which i hope to fix over my time here. There have been comments made on parts where I believe another person
-reading would struggle to understand what i'm trying to do.  
+reading would struggle to understand what i'm trying to do. As for design. I picked the blue and green as background colours as it reflects keralas greenery
+on the history the first overlay is a picture, using a colour picker I picked colours from the pic to use on the other background colours.Overall I made a good attempt, and didn't do
+everything last minute. For next time, I believe a lot of improvement can be made in design, layout, structure, use of bootstrap commenting, however i'm not going to let this discourage me and keep trying.
+I wasn't sure in some areas, for example I wasn't sure if I had to make one style sheet or multiple for each page, I though it would be better this way becuase the layout for each
+page is different and also makes the more clear and understandable.The index html is a cover page i decided to add to give the website a nice touch. once opened you cant go back to that page and I think its better that way.
+
